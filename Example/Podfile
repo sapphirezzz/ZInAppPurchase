@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZInAppPurchase_Example' do
+  pod 'ZInAppPurchase', :path => '../'
+
+  target 'ZInAppPurchase_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
