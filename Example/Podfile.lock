@@ -1,0 +1,16 @@
+PODS:
+  - ZInAppPurchase (0.1.0)
+
+DEPENDENCIES:
+  - ZInAppPurchase (from `../`)
+
+EXTERNAL SOURCES:
+  ZInAppPurchase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZInAppPurchase: c7612e5ba7a8fba0be31711402b46a85bd406efa
+
+PODFILE CHECKSUM: 7e7b3893ab3f804b2b3918eaae0a8d2107c1d94c
+
+COCOAPODS: 1.1.0.rc.3
